@@ -587,5 +587,6 @@ FodyWeavers.xsd
 
 # Project database
 Signature/
+Faces/
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,visualstudio,python
